@@ -1,2 +1,2 @@
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
