@@ -1,2 +1,1 @@
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
-
+![](物理/第十四章:波与相对论)
