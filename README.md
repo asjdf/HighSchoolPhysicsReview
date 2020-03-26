@@ -31,15 +31,17 @@
   
   
 ## 编辑标准  
+流程图：PlantUML
+函数图像：Matplotlib
+公式：使用 API 引用远程图片，在 ? 后面加上 base64 编码的公式后图片引用链接  
+```  
+http://latex.codecogs.com/gif.latex?  
+```  
 换行：GitHub 文章换行需要在行尾加上两个空格实现，编辑完 Markdown 文本后使用下面这条命令自动补全行尾  
 ```  
 sed -i '' -e 's/  $//' -e 's/$/  /' README.md  
 ```  
   
-公式：使用 API 引用远程图片，在 ? 后面加上 base64 编码的公式后图片引用链接  
-```  
-http://latex.codecogs.com/gif.latex?  
-```  
-## 文件名规范  
-不能包含：< > / \ | :  * ?   
-冒号用"-"号代替
+## 文件命名规范  
+1. 文件名中的冒号使用中文冒号
+2. 不能包含：< > / \ | :  * ? 
