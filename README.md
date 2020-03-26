@@ -31,8 +31,8 @@
   
   
 ## 编辑标准  
-流程图：PlantUML
-函数图像：Matplotlib
+流程图：PlantUML  
+函数图像：Matplotlib  
 公式：使用 API 引用远程图片，在 ? 后面加上 base64 编码的公式后图片引用链接  
 ```  
 http://latex.codecogs.com/gif.latex?  
@@ -43,5 +43,5 @@ sed -i '' -e 's/  $//' -e 's/$/  /' README.md
 ```  
   
 ## 文件命名规范  
-1. 文件名中的冒号使用中文冒号
-2. 不能包含：< > / \ | :  * ? 
+1. 文件名中的冒号使用中文冒号  
+2. 不能包含：< > / \ | :  * ?   
