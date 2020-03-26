@@ -47,4 +47,4 @@ sed -i '' -e 's/  $//' -e 's/$/  /' README.md
 - 文件名中的冒号使用中文冒号  
 
 ## Todo
-- [] Travis-CI + matplotlib + makefile
+- [ ] Travis-CI + matplotlib + makefile
