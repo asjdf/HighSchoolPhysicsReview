@@ -14,8 +14,6 @@
 [第十三章：热学]()  
 [第十四章：波与相对论](物理/第十四章：波与相对论.md)  
 
-光速：$C=3\times 10^8m/s$  
-  
 ## 化学  
 [专题一：化学家眼中的物质世界]()  
 [专题二：离子反应与氧化还原反应]()  
@@ -34,10 +32,7 @@
 ## 编辑标准  
 - 流程图：PlantUML  
 - 函数图：Matplotlib  
-- 公式：使用 API 引用远程图片，在 ? 后面加上 base64 编码的公式后图片引用链接  
-```  
-http://latex.codecogs.com/gif.latex?  
-```  
+- 公式：[Google Chrome](https://www.google.com/chrome/) + [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)
 - 换行：GitHub 文章换行需要在行尾加上两个空格实现，编辑完 Markdown 文本后使用下面这条命令自动补全行尾  
 ```  
 sed -i '' -e 's/  $//' -e 's/$/  /' README.md  
