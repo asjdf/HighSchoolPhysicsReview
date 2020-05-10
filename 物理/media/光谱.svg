@@ -1,0 +1,28 @@
+<svg width="370" height="100" viewBox="0 0 370 100" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!--横轴-->
+<line x1="0" y1="30" x2="360" y2="30" style="stroke:rgb(0,0,0);stroke-width:5"/>
+<polygon points="370,30 360,20 360,40" style="fill:black;stroke:none"/>
+
+<!--七色光-->
+<text x="20"  y="20" fill="black">红</text>
+<text x="70"  y="20" fill="black">橙</text>
+<text x="120" y="20" fill="black">黄</text>
+<text x="170" y="20" fill="black">绿</text>
+<text x="220" y="20" fill="black">蓝</text>
+<text x="270" y="20" fill="black">靛</text>
+<text x="320" y="20" fill="black">紫</text>
+
+<!--频率-->
+<text x="20"  y="60" fill="black">频率：小</text>
+<line x1="100" y1="55" x2="300" y2="55" style="stroke:rgb(0,0,0);stroke-width:3"/>
+<polygon points="310,55 300,50 300,60" style="fill:black;stroke:none"/>
+<text x="320" y="60" fill="black">大</text>
+
+<!--波长-->
+<text x="20"  y="90" fill="black">波长：大</text>
+<line x1="100" y1="85" x2="300" y2="85" style="stroke:rgb(0,0,0);stroke-width:3"/>
+<polygon points="310,85 300,80 300,90" style="fill:black;stroke:none"/>
+<text x="320" y="90" fill="black">小</text>
+  
+</svg>
